@@ -1,0 +1,2 @@
+# Blog 5 uses Python's standard library for HTTP, chunking, and similarity.
+# It talks to Ollama, so install Ollama separately: https://ollama.com/download
